@@ -10,7 +10,10 @@ namespace virtual_kart
     {
         private int numbercard;
         private string ad;
+        private string soyad;
         private DateTime tarix;
+        private int cvv;
+        private int mebleg;
 
 
         public DateTime getTarix
@@ -22,6 +25,19 @@ namespace virtual_kart
             get
             {
                 return this.tarix;
+            }
+        }
+
+
+        public int getMebleg
+        {
+            set
+            {
+                this.mebleg = value;
+            }
+            get
+            {
+                return this.mebleg;
             }
         }
 
@@ -39,13 +55,31 @@ namespace virtual_kart
         }
 
 
+        public string getSoyad
+        {
+            set
+            {
+                this.soyad = value;
+            }
+            get
+            {
+                return this.soyad;
+            }
+        }
 
+
+        public int  getCvv()
+        {
+            Random rnd_cvv = new Random();
+            cvv = rnd_cvv.Next(100, 900);
+            return cvv;
+        }
 
 
         public int  numberCard()
         {
             Random rnd = new Random();
-            numbercard = rnd.Next(100, 900);
+            numbercard = rnd.Next(100000000, 900000000);
             return numbercard;
         }
     }

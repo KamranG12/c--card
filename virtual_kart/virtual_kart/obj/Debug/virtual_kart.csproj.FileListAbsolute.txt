@@ -4,3 +4,9 @@ c:\users\p501\documents\visual studio 2017\Projects\virtual_kart\virtual_kart\bi
 c:\users\p501\documents\visual studio 2017\Projects\virtual_kart\virtual_kart\obj\Debug\virtual_kart.csprojResolveAssemblyReference.cache
 c:\users\p501\documents\visual studio 2017\Projects\virtual_kart\virtual_kart\obj\Debug\virtual_kart.exe
 c:\users\p501\documents\visual studio 2017\Projects\virtual_kart\virtual_kart\obj\Debug\virtual_kart.pdb
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\obj\Debug\virtual_kart.csprojResolveAssemblyReference.cache
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\obj\Debug\virtual_kart.exe
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\obj\Debug\virtual_kart.pdb
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\bin\Debug\virtual_kart.exe.config
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\bin\Debug\virtual_kart.exe
+C:\Users\kamran.jabiyev\Desktop\c--card\virtual_kart\virtual_kart\bin\Debug\virtual_kart.pdb
